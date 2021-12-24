@@ -215,7 +215,7 @@
   <project path="system/update_engine" name="platform_system_update_engine" remote="BlissRoms" />
 
   <!-- Vendor -->
-  <project path="vendor/bliss" name="platform_vendor_bliss" remote="BlissRoms-M" />
+  <project path="vendor/bliss" name="platform_vendor_bliss" remote="BlissRoms" />
   <project path="vendor/support" name="platform_vendor_support" remote="BlissRoms-M" /> 
   <project path="vendor/gms" name="platform_vendor_gms" remote="BlissRoms-gitlab" revision="s" />
   <project path="vendor/overlays" name="platform_vendor_overlays" remote="BlissRoms-M"/>
